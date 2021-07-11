@@ -12,11 +12,11 @@ $ npm install
   ```js
   $ npm run serve:single-spa:angular-app
   ```
-- Navigate to the react-app folder and run the below command
+- Navigate to the [react-app](https://github.com/nitinreddy3/react-app) folder and run the below command
   ```js
   $ npm start
   ```
-- Navigate to the root-config folder and run the below command
+- Navigate to the [root-config](https://github.com/nitinreddy3/root-config) folder and run the below command
   ```js
   $ npm start
   ```
