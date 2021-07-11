@@ -26,4 +26,5 @@ $ npm install
   Now in the top navigation bar click on **React**, you will be routed to the React app, on click of **Angular** you will be redirected to angular app
   
   **http://localhost:9000/react** -> React App
+  
   **http://localhost:9000/angular/** -> Angular App
